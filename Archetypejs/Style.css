@@ -1,0 +1,45 @@
+html{
+    background-color:powderblue;
+}
+p{
+    font-size: 15px;
+}
+button{
+    color: cornsilk;
+    background-color:red;
+    size: 60px;
+}
+table, td, th {
+    border: solid thin gray;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 10px;
+}
+
+th {
+    background-color: midnightblue;
+    color: white;
+    font-weight: bold;
+}
+tr:hover {
+    background-color: lightgreen;
+}
+#AddUpdatePanel {
+    background-color: purple;
+    color: white;
+    padding: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+.formLabel {
+    width: 100px;
+    float: left;
+}
+.highlighted {
+    background-color: lightcoral;
+}
